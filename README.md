@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D-Shahil
-- 👀 I’m interested in AI ans robotics.
+- 👀 I’m interested in AI and robotics.
 - 🌱 I’m currently learning python and Js.
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me : contact@shahil.com.np
